@@ -1,0 +1,7 @@
+[server]
+port = 8503
+address = "localhost"
+enableCORS = false
+headless = true
+
+

@@ -1,0 +1,10 @@
+[server]
+port = 8510
+address = "localhost"
+
+[theme]
+primaryColor = "#000000"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#000000"
+font = "sans serif"
